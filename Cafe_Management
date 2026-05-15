@@ -1,8 +1,8 @@
-menu={'Pizza':100, 'Salad':30,'Burger':200,'PopCorn':150,'Coffee':50,'Iced Americano':150}
+menu={'Pizza':100, 'Salad':30,'Burger':200,'Chocolate':20,'Coffee':50,'Iced Americano':150}
 print('Welcome to Engineers Cafe')
 print('Here is our Menu')
 
-print('Pizza:100\nSalad:30\nBurger:200\nPopCorn:150\nCoffee:50\nIced Americano:150\n')
+print('Pizza:100\nSalad:30\nBurger:200\nChocolate:20\nCoffee:50\nIced Americano:150\n')
 order_item=input('Enter the item:').title()
 
 order_total=0
